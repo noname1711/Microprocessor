@@ -30,7 +30,6 @@ main proc
     int 21h
     
 main endp
-end
     
     
     
