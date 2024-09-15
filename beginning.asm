@@ -32,7 +32,7 @@ main proc ;ham main
     mov ah, 4ch           
     int 21h
 main endp ;ket thuc ham main
-end ;kthuc ctrinh
+end main ;kthuc ctrinh
     
      
     

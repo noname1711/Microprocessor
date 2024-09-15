@@ -30,4 +30,4 @@ main proc
     mov ah,4ch  ;kthuc ctr
     int 21h
 main endp
-end
+end main

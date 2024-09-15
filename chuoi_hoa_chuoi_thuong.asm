@@ -70,4 +70,4 @@ inhoa proc
         jne lap2
     ret
 inhoa endp
-end
+end main
