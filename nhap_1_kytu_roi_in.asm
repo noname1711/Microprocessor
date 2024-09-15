@@ -34,7 +34,9 @@ main proc
     ;ve dos
     mov ah, 4ch
     int 21h
-main endp
+main endp    
+end
+
 
     
     
